@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hey, I'm",
+    "role": "Web Developer",
+    "description": "I build exceptional digital experiences that are fast, accessible, and designed with best practices. Let's turn your vision into reality.",
+    "contact": "Contact Me",
+    "download": "Download CV",
+    "scroll": "Scroll Down"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know my background, skills, and expertise as a web developer.",
+    "bio": {
+      "title": "Bio",
+      "p1": "I'm a passionate full-stack developer with over 5 years of experience creating web applications that deliver exceptional user experiences.",
+      "p2": "My approach combines technical expertise with creative problem-solving to build scalable, maintainable, and user-friendly applications.",
+      "p3": "When I'm not coding, you can find me hiking, reading about new tech trends, or contributing to open source projects."
+    },
+    "experience": {
+      "title": "Work Experience",
+      "senior": {
+        "title": "Senior Developer",
+        "company": "TechCorp Inc.",
+        "period": "2021 - Present",
+        "description": "Leading front-end development and architecture decisions for a SaaS platform."
+      },
+      "web": {
+        "title": "Web Developer",
+        "company": "WebSolutions",
+        "period": "2018 - 2021",
+        "description": "Developed responsive websites and e-commerce applications."
+      }
+    },
+    "education": {
+      "title": "Education",
+      "degree": {
+        "title": "B.S. Computer Science",
+        "school": "University of Technology",
+        "period": "2014 - 2018"
+      },
+      "cert": {
+        "title": "Full Stack Web Development Certification",
+        "school": "Tech Academy",
+        "period": "2019"
+      }
+    }
+  }
+}

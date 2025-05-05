@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "role": "Desarrollador Web",
+    "description": "Construyo experiencias digitales excepcionales que son rápidas, accesibles y diseñadas con las mejores prácticas. Convirtamos tu visión en realidad.",
+    "contact": "Contáctame",
+    "download": "Descargar CV",
+    "scroll": "Desplázate hacia abajo"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "subtitle": "Conoce mi experiencia, habilidades y especialización como desarrollador web.",
+    "bio": {
+      "title": "Biografía",
+      "p1": "Soy un desarrollador full-stack apasionado con más de 5 años de experiencia creando aplicaciones web que brindan experiencias excepcionales al usuario.",
+      "p2": "Mi enfoque combina experiencia técnica con resolución creativa de problemas para construir aplicaciones escalables, mantenibles y amigables para el usuario.",
+      "p3": "Cuando no estoy programando, puedes encontrarme haciendo senderismo, leyendo sobre nuevas tendencias tecnológicas o contribuyendo a proyectos de código abierto."
+    },
+    "experience": {
+      "title": "Experiencia Laboral",
+      "senior": {
+        "title": "Desarrollador Senior",
+        "company": "TechCorp Inc.",
+        "period": "2021 - Presente",
+        "description": "Liderando el desarrollo frontend y decisiones de arquitectura para una plataforma SaaS."
+      },
+      "web": {
+        "title": "Desarrollador Web",
+        "company": "WebSolutions",
+        "period": "2018 - 2021",
+        "description": "Desarrollo de sitios web responsivos y aplicaciones de comercio electrónico."
+      }
+    },
+    "education": {
+      "title": "Educación",
+      "degree": {
+        "title": "Licenciatura en Ciencias de la Computación",
+        "school": "Universidad de Tecnología",
+        "period": "2014 - 2018"
+      },
+      "cert": {
+        "title": "Certificación en Desarrollo Web Full Stack",
+        "school": "Academia Tech",
+        "period": "2019"
+      }
+    }
+  }
+}
